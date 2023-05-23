@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/JuliusMatadamas/instaclone/issues"
   },
-  "homepage": "https://github.com/JuliusMatadamas/instaclone#readme"
+  "homepage": "https://github.com/JuliusMatadamas/instaclone#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^5.5.0",
+    "mongoose": "^7.2.0"
+  }
 }
